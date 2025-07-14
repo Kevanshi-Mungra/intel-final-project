@@ -16,7 +16,7 @@ This tool helps in identifying defective semiconductor wafers via a visual inter
 
 ## 📸 Demo
 
-👉 [Click here to try the app on Streamlit Cloud](https://intelai-final-project-ccnxvpdnby8sislsn7h8rd.streamlit.app/#semiconductor-wafer-pass-fail-prediction)
+👉 [Click here to try the app on Streamlit Cloud](https://pass-fail.streamlit.app/)
 
 ---
 
